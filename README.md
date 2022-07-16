@@ -30,10 +30,12 @@ Provide instructions and examples for use. Include screenshots as needed.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
-Click on [PassWord Generator](https://jose-m-otero.github.io/git-github.com-Jose-M-Otero-CorporatePassWordGenerator/) to see live website.
+[GitHub Repository](https://github.com/Jose-M-Otero/CorporatePassWordGenerator)
+
+Click on [PassWord Generator](https://jose-m-otero.github.io/CorporatePassWordGenerator/) to see live website.
 
 <p align="center">
-  <img alt="PassWord Generator" src="https://github.com/Jose-M-Otero/git-github.com-Jose-M-Otero-CorporatePassWordGenerator/blob/master/Develop/images/03-javascript-homework-demo.png">
+  <img alt="PassWord Generator" src="https://github.com/Jose-M-Otero/CorporatePassWordGenerator/blob/master/Develop/images/03-javascript-homework-demo.png">
 </p>
 
 ## Credits
